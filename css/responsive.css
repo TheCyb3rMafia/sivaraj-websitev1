@@ -349,9 +349,6 @@
 		width: 40vw;
 	}
 
-	.banner-section .background-shape{
-		width: 50vw;
-	}
 
 	::-webkit-scrollbar{width:1px}
 	::-webkit-scrollbar-track{background-color:transparent;}

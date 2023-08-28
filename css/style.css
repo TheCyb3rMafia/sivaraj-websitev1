@@ -2060,11 +2060,6 @@ img{
 	overflow: hidden;
 }
 
-.resume-section .background-shape{
-	background-image: url(../images/icons/shape3.svg);
-	background-position: right bottom;
-}
-
 .resume-section .sec-title{
 
 }
@@ -2304,10 +2299,6 @@ img{
 	overflow: hidden;
 }
 
-.services-section .background-shape{
-	background-image: url(../images/icons/shape4.svg);
-	background-position: left top;
-}
 
 .services-section .center-box{
 	padding-top: 50px;
@@ -2430,11 +2421,6 @@ img{
 .portfolio-section{
 	position: relative;
 	overflow: hidden;
-}
-
-.portfolio-section .background-shape{
-	background-image: url(../images/icons/shape5.svg);
-	background-position: right bottom;
 }
 
 .project-tab .carouse-outer{
